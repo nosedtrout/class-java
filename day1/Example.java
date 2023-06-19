@@ -1,12 +1,12 @@
 public class Example {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello Me");
 
-        var iAmString = "This is a string";
+        var iAmString = "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR6RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR!~!!!!!";
         System.out.println(iAmString);
-        var iAmInt = 1;
+        var iAmInt = 6*67;
         System.out.println(iAmInt);
-        var iAmBool = true;
-        System.out.println(iAmBool);
+        var varible = chickennugget@mcdonalds;
+        System.out.println(varible);
     }
 }
